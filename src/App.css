@@ -1,0 +1,139 @@
+#blog{
+    margin-top: 10px;
+    display:flex;
+    flex-direction:column;
+    
+}
+#button{
+   
+}
+
+#content{
+
+    margin-bottom: 72px;
+}
+
+#img{
+    margin-top: 10px;
+    width: 248px;
+    height: 170px;
+    padding-right: 10px;
+}
+
+#title{
+    font-size: 23px;
+    padding-bottom: 5px;
+    font-weight: 400;
+    color: #75D0FF;
+}
+
+#postBy{
+    padding-bottom: 5px;
+    color: cadetblue;
+}
+p {
+    display: block;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+#headerSUp {
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-size: 19px;
+    font-weight: bolder;
+    color: white;
+}
+#intro{
+    padding-bottom: 10px;
+    font-size: 15px;
+    color: white;
+}
+
+#formInput {
+    padding-bottom: 10px;
+}
+
+#ten{
+    text-align: center;
+    
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+    color: white;
+    background:#D56144;
+    border: aliceblue;
+}
+
+#email{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    background:#D56144;
+    border: aliceblue;
+}
+
+#btnDK{
+    padding-bottom: 8px;
+    font-size: 20px;
+    padding-top: 8px;
+    margin-top: 8px;
+    padding-left: 4em;
+    padding-right: 4em;
+    border: aliceblue; 
+    color:#F47555;
+    background-color: white;
+}
+
+#thongbao{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+#lable{
+    color: white;
+}
+
+
+
+
+
+#contentNew{
+
+    margin-bottom: 1px;
+}
+
+#imgNew{
+    margin-top: 10px;
+    width: 50px;
+    height: 50px;
+    padding-right: 10px;
+}
+
+#titleNew{
+    font-size: 15px;
+    padding-bottom: 5px;
+    font-weight: 400;
+    color: #3E5062;
+}
+
+#postByNew{
+    padding-bottom: 5px;
+    color: cadetblue;
+}
+
+
+    h1{
+        margin-top: 5px;
+        margin-bottom: 0;
+        text-align: left;
+        font-size: 20px;
+        background-color:#3E5062;
+        color: white;
+    }
